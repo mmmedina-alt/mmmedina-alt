@@ -27,7 +27,7 @@
   ><img src="./imgs/icons/bash.png" alt="Bash" title="Bash" width="48" height="48"
   ><img src="./imgs/icons/powershell.png" alt="PowerShell" title="PowerShell" width="48" height="48"
   ><picture><source media="(prefers-color-scheme: dark)" srcset="./imgs/icons/latex-dark.png"><img src="./imgs/icons/latex.png" alt="LaTeX" title="LaTeX" width="48" height="48"></picture
-  ><img src="./imgs/icons/docker.png" alt="Docker" title="Docker" width="48" height="48">
+  ><img src="./imgs/icons/docker-whale.png" alt="Docker" title="Docker" width="48" height="48">
 </p>
 
 **02 contato**
